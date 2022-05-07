@@ -5,7 +5,7 @@
     <b>Custom Reuse components</b>
   </summary>
 
-> - [x] Table
+> - [ ] Table
 > - [ ] Checkbox
 > - [ ] Dropdown
 > - [ ] Tab
