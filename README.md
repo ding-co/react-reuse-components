@@ -2,7 +2,7 @@
 
 <details>
   <summary>
-    <b>Custom Reuse components </b>
+    <b>Custom Reuse components</b>
   </summary>
 
 > - [ ] Table Grid
