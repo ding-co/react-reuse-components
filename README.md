@@ -1,4 +1,4 @@
-# React - Custom Reuse components/Hooks/Helpers (with CRA, TypeScript)
+# React - Custom Reuse components & Hooks & Helpers (with CRA, TypeScript)
 
 <details>
   <summary>
@@ -8,10 +8,10 @@
 > - [x] Table
 > - [ ] Checkbox
 > - [ ] Dropdown
-> - [ ] Tab
 > - [ ] Label
 > - [ ] Input
 > - [ ] Toggle
+> - [ ] Tab
 > - [ ] Modal
 
 </details>
@@ -35,7 +35,7 @@
     <b>Custom Helpers</b>
   </summary>
 
-> - [ ] sort
 > - [ ] type
+> - [ ] sort
 
 </details>
