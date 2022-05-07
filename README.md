@@ -5,10 +5,10 @@
     <b>Custom Reuse components</b>
   </summary>
 
-> - [x] Table Grid
+> - [x] Table
 > - [ ] Checkbox
 > - [ ] Dropdown
-> - [ ] FormTab
+> - [ ] Tab
 > - [ ] Label
 > - [ ] Input
 > - [ ] Toggle
