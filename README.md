@@ -5,7 +5,7 @@
     <b>Custom Reuse components</b>
   </summary>
 
-> - [ ] Table Grid
+> - [x] Table Grid
 > - [ ] Checkbox
 > - [ ] Dropdown
 > - [ ] FormTab
