@@ -8,7 +8,7 @@ const Home = () => {
         <h2>Custom reuse components</h2>
         <ol>
           <li>
-            <h3>Table</h3>
+            <h3>Table ✔️</h3>
           </li>
           <li>
             <h3>Checkbox</h3>
