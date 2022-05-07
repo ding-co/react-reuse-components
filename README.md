@@ -1,11 +1,11 @@
-# React - Custom Reuse components/Hooks/Helpers
+# React - Custom Reuse components/Hooks/Helpers (with CRA, TypeScript)
 
 <details>
   <summary>
     <b>Custom Reuse components </b>
   </summary>
 
-> - [x] Table Grid
+> - [ ] Table Grid
 > - [ ] Checkbox
 > - [ ] Dropdown
 > - [ ] FormTab
